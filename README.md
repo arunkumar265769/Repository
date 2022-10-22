@@ -1,1 +1,1 @@
-# Repository
+print("Hello World")
